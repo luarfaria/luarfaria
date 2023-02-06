@@ -1,1 +1,1 @@
-<img loading="lazy" src="https://repository-images.githubusercontent.com/167828165/e2501900-971c-11ea-91fd-34ae38c2892f" alt="FTXUI" class="d-block width-full">
+<img loading="lazy" src="https://www.legislapp.com.br/wp-content/uploads/2021/07/Logo-Legislapp-1-03-1.png" alt="FTXUI" class="d-block width-full">
